@@ -67,3 +67,4 @@ todos os arquivos do repositório retornam ao armazenamento da máquina.
 <br>
 <br>
 <img src="ComandosPAM/Comando19.jpeg">
+Mudamos localmente e atualizamos o repositório.
