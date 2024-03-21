@@ -31,5 +31,28 @@ O comando "git status" verifica a atual situação da pasta selecionada(verifica
 O comando "git commit -m" salva tudo que foi feito até o atual momento no projeto.
 <br>
 <img src="ComandosPAM/Comando9.png">
+<br>
+<img src="ComandosPAM/Comando10.png">
+O comando "git clone" passa todos os arquivos contidos em um repositório para outro.
+<br>
+<img src="ComandosPAM/Comando11.png">
+Removemos uma imagem do repositório para atualizá-lo.
+<br>
+<img src="ComandosPAM/Comando12.png">
+Deletamos o arquivo do código para passá-lo da máquina para o git.
+<br>
+<img src="ComandosPAM/Comando15.png">
+O comando "git pull orgin" é usado para buscar os itens contidos no repositório local e passá-los para o remoto, assim, fazendo com que ambos fiquem iguais.
+<br>
+<img src="ComandosPAM/Comando13.png">
+<br>
+<img src="ComandosPAM/Comando14.png">
+Selecionamos e deletamos o arquivo do código na máquina.
+<br>
+<img src="ComandosPAM/Comando16.png">
+O comando "git reset" é usado para desfazer commits.
+<br>
+<img src="ComandosPAM/Comando17.png">
+todos os arquivos do repositório retornam ao armazenamento da máquina.
 
 
