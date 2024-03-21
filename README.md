@@ -32,5 +32,4 @@ O comando "git commit -m" salva tudo que foi feito até o atual momento no proje
 <br>
 <img src="ComandosPAM/Comando9.png">
 
-<br>
-<img src="ComandosPAM/Comandos10.png">
+
