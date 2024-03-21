@@ -24,7 +24,7 @@ O comando "git pull" permite atualizar o repositório local com as mudanças do 
 <img src="ComandosPAM/Comando6.png">
 O comando "git add ." adiciona e salva o projeto a um futuro commit.
 <br>
-<img scr="ComandosPAM/Comando7.png">
+<img src="ComandosPAM/Comando7.png">
 O comando "git status" verifica a atual situação da pasta selecionada(verifica se os arquivos contidos e se eles estão adicionados).
 <br>
 <img src="ComandosPAM/Comando8.png">
@@ -32,27 +32,29 @@ O comando "git commit -m" salva tudo que foi feito até o atual momento no proje
 <br>
 <img src="ComandosPAM/Comando9.png">
 <br>
-<img src="ComandosPAM/Comando10.png">
+<img src="ComandosPAM/Comando10.jpg">
 O comando "git clone" passa todos os arquivos contidos em um repositório para outro.
 <br>
-<img src="ComandosPAM/Comando11.png">
+<img src="ComandosPAM/Comando11.jpg">
 Removemos uma imagem do repositório para atualizá-lo.
 <br>
-<img src="ComandosPAM/Comando12.png">
+<img src="ComandosPAM/Comando12.jpg">
 Deletamos o arquivo do código para passá-lo da máquina para o git.
 <br>
-<img src="ComandosPAM/Comando15.png">
+<img src="ComandosPAM/Comando15.jpg">
 O comando "git pull orgin" é usado para buscar os itens contidos no repositório local e passá-los para o remoto, assim, fazendo com que ambos fiquem iguais.
 <br>
-<img src="ComandosPAM/Comando13.png">
+<img src="ComandosPAM/Comando13.jpg">
 <br>
-<img src="ComandosPAM/Comando14.png">
+<img src="ComandosPAM/Comando14.jpg">
 Selecionamos e deletamos o arquivo do código na máquina.
 <br>
-<img src="ComandosPAM/Comando16.png">
+<img src="ComandosPAM/Comando16.jpg">
 O comando "git reset" é usado para desfazer commits.
 <br>
-<img src="ComandosPAM/Comando17.png">
+<img src="ComandosPAM/Comando17.jpg">
 todos os arquivos do repositório retornam ao armazenamento da máquina.
-
-
+<br>
+<img src="ComandosPAM/Comando18.jpg">
+<br>
+<img src="ComandosPAM/Comando19.jpg">
